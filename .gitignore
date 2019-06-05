@@ -1,0 +1,4 @@
+test/*.log
+test/*.pptx
+.vscode
+backup
